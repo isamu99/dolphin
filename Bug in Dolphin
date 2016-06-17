@@ -1,0 +1,1 @@
+The force feedback effects in steering wheel mode are reversed, even when setting the slider to -100. Developer SkidAu made this fix about threee years ago but looks like it has been reverted in one of the branches
